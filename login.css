@@ -1,0 +1,119 @@
+body {
+
+    padding: 0;
+    margin: 0;
+    background-color: white;
+}
+
+.logo__img{
+    position: absolute;
+    margin-left: 43%;
+    margin-top: 3%;
+}
+
+#login {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+
+.card {
+
+    background-color: #ddd9ce;
+    padding: 40px;
+    border-radius: 5px;
+    width:350px;
+
+}
+.submit{
+	font-size: 18px;
+}
+
+.card-header {
+
+    padding-bottom: 30px;
+    opacity: 0.8;
+    color: #0e0d0d;
+	font-size: 30px;
+
+}
+#usuario{
+	font-size: 19px;
+}
+.paragrafo{
+	font-size: 14px;
+	text-align: center;
+	margin-bottom: 2%;
+}
+
+
+
+.card-content label {
+
+    color: rgb(5, 5, 5);
+    font-size: 18px;
+    opacity: 0.8;
+
+}
+
+.card-content-area {
+
+    display: flex;
+    flex-direction: column;
+    padding:10px 0;
+
+}
+
+.card-content-area input {
+
+    margin-top: 10px;
+    padding:0 5px;
+    background-color: transparent;
+    border:none;
+    border-bottom: 1px solid #696767;
+    outline: none;
+    color: rgb(7, 7, 7);
+
+}
+
+.card-footer {
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.card-footer .submit{
+
+    width: 100%;
+    height: 40px;
+    background-color: #95cbf7;
+    border:none;
+    color:#0c0b0b;
+    margin: 10px 0;
+
+}
+#cadastro{
+	
+	color: #ce558d;
+    font-weight: bold;
+    
+    font-size: 18px;
+    align-items: center;
+
+}
+.card-footer a {
+
+    text-align: center;
+    font-size: 14px;
+    opacity: 0.8;
+    color: rgb(5, 5, 5);
+    text-decoration: none;
+	margin-bottom: 2%;
+
+}

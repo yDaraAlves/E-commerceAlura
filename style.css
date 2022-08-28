@@ -1,0 +1,46 @@
+
+.produto__info{
+	display: flex;
+    justify-content: center;
+	margin: 5%;
+}
+
+.produto__img{
+	height: 376px;
+	width: 374px;
+	margin-right: 1%;
+	margin-left: 10%;
+    
+	
+}
+
+.produto__title{
+	
+	margin: 0.5rem 0 0.5rem 0;
+	font-size: 32px;
+}
+
+.produto__title2{
+	margin-left: 4%;
+	font-size: 27px;
+
+}
+
+.produto__preço
+{
+	font-weight: bold;
+    margin: 0.5rem 0 0.5rem 0;
+	
+	
+}
+
+.produto__text{
+	font-size: 25px;
+		
+}
+
+.seção-produto{
+	box-shadow: 0px -15px 10px -15px rgb(139, 139, 139);  
+	padding-top: 1%;
+
+}

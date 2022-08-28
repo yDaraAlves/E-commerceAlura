@@ -1,0 +1,117 @@
+.titulo{
+    display: flex;
+    margin-top: 2%;
+    margin-bottom: 0.1%;
+
+   
+}
+.subtitulo{
+    font-size: 32px;
+    text-align: left;
+    margin-left: 4rem;
+    
+}
+#link{
+    display: flex;
+    justify-content: right;
+    margin-right: 4rem;
+    color: blue ;
+
+    
+}
+
+
+.cards-caixa{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+   
+}
+.card{
+    margin: 2%;
+    border-radius: 10px;
+    height: 277px;
+    width: 176px;
+
+}
+
+.card:hover{
+    box-shadow: 0 0 1em grey;
+   
+
+}
+.card__img{
+    height: 174px;
+    width: 176px;
+    /* top-left | top-right | bottom-right | bottom-left */
+    border-radius: 10px 10px 0 0;
+}
+
+
+.card__info{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 19px;
+    /* topo | direita | inferior | esquerda */
+    
+
+}
+.card__title{
+    
+    margin: 0.5rem 0 0.5rem 0;
+    
+    
+
+}
+
+.card__preço{
+    
+    font-weight: bold;
+    margin: 0.5rem 0 0.5rem 0;
+    
+    
+
+}
+
+
+.card__link{
+    text-decoration: none;
+    color: rgb(62, 171, 204);
+    margin: 0.5rem 0 0.5rem 0;
+    
+
+}
+
+@media screen and (min-width: 0) {
+	.conteudo-skills{ display: flex;  flex-wrap: wrap;  justify-content: center; }
+	.conteudo-skills-li{
+		height: 20%;
+		width: 30%;
+		background-color: #fafafa;
+		text-align: center;
+		align-items: center;
+		margin: 1%;
+		border-radius: 6px;
+		box-shadow: 10px 5px 5px #CCC;
+		color: rgb(64, 170, 231);
+		transition: .3s;
+		position: relative;
+		padding: 20px 0 20px;
+	}
+
+}
+
+@media screen and (min-width: 768px) {
+
+	
+	
+	}
+
+
+@media screen and (min-width: 992px) {
+
+	
+	
+	}
+
+

@@ -1,0 +1,36 @@
+	.Produtos-form{
+		
+		
+	}
+	form{
+		display: flex;
+		justify-content: center;
+		margin: 2%;
+	}
+
+	.produto-container{
+		width:320px;
+        height:270px;
+	}
+	li{
+		margin: 2%;
+		font-size: 28px;
+		list-style-type: none;
+		
+	}
+	#input-li{
+		height: 25px;
+		width: 300px;
+	}
+	.btn{
+		margin-bottom: 5rem;
+		width:320px;
+        height:26px;
+        background: #2A7AE4;
+        font-size: 19px;
+        border: none;
+        color: white;
+	}
+	.produto-title{
+		font-size: 30px;
+	}

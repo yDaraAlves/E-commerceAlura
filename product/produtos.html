@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <link rel="stylesheet" href="cards.css">
+    <link rel="stylesheet" href="../resert.css">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+    <title>Alura Geek</title>
+</head>
+
+<body>
+    <ul class="faixa__container">
+
+        <li class="faixa__container__li "> <a href="./index.html" class="logo">
+            <img src="./img/Logo.png" alt="Logo da Alura Geek" class="logo__img"></a>
+        </li>
+        <li class="faixa__container__li">
+            <div>
+                <input  id="searchbar" onkeyup="search_produtos()" class="input" type="search" placeholder="  O que deseja encontrar?" data-menu-search>
+            </div> 
+        </li>
+        <li class="faixa__container__li"><a href="./login.html"><button  class="login-btn">Login</button></a></li>
+    </ul>
+
+    <main>
+
+        <section class="banner container">
+            <div class="banner__container">
+                <img src="../img/banner-image.png" alt="Logo da Alura Geek" class="logo__img2">
+
+                <div class="banner__text">
+                    <h2 class="banner__title">Dezembro Promocional</h2>
+                    <p class="banner__subtitle">Produtos selecionados com 33% de desconto</p>
+                    <a href="#consoles" ><button class="btn-banner">Ver Consoles</button></a>
+                </div>
+            </div>
+
+        </section>
+		<div class="titulo_01">
+			<h2 class="subtitulo_02">Todos os produtos</h2>
+			<div id="ver_produtos" >
+				<a href="cadastro.html" ><button class="btn-banner">Adicionar Produto</button></a>
+			</div>
+		</div>
+
+		<style>
+			.titulo_01{
+             display: flex;
+			 flex-wrap: wrap;
+			 justify-content: center;
+			 /* topo | direita | inferior | esquerda */
+              margin: 2% 0 2% 2%;
+
+   
+            }
+            .subtitulo_02{
+             font-size: 32px;
+             text-align: left;
+			 margin-right: 50%;
+            
+    
+            }
+			#ver_produtos{font-size: 19px;}
+
+            .Produtos-content{ 
+              display: flex;
+             justify-content: center;
+             flex-wrap: wrap;}
+
+             .listprodutos{
+                margin: 2%;
+                border-radius: 10px;
+                height: 277px;
+                width: 176px;
+             }
+
+		</style>
+        <section class="Produtos-content" data-product>
+            <div class="listprodutos">
+                 <!--<div class="produtos">
+	              <img src="../img/atari.png" alt="">
+                  <p class="descrição"> controle XYZ</p>
+                   <p class="preço"> 60,00</p>
+                  <a href="">Ver Produto</a>
+                   </div>-->
+
+            </div>
+        </section>
+       
+   
+      
+
+
+
+    </main>
+
+        <div class="rodape">
+            <p class="rodape__text">Desenvolvido por Dara Alves</p>
+            <p class="rodape__text">2022</p>
+        </div>
+
+  
+    
+    <script type="modulo " src="controle.js"></script>
+    <script src="../script.js"></script>
+   
+</body>
+
+</html>

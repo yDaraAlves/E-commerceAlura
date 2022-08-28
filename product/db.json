@@ -1,0 +1,195 @@
+{
+  "produtos": [
+    {
+      "nome": "Controle XYZ",
+      "imageUrl":"https://www.google.com.br/search?q=imagem+500x500&sxsrf=ALiCzsZVzPBuScMwgjFk79Q5giF5895DeQ:1661646675754&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiOwOaepOj5AhWXLrkGHbnyB5QQ_AUoAXoECAEQAw&biw=1366&bih=657&dpr=1#imgrc=rzTQJ6Rj0M4KvM",
+      "price":"60.00",
+      "section":"Star Wars",
+      "alt":"Product",
+      "id": 1,
+      "description": " "
+      
+    },
+    {
+      "nome": "Controle XYZ",
+      "imageUrl": "https://www.google.com.br/search?q=imagem+500x500&sxsrf=ALiCzsZVzPBuScMwgjFk79Q5giF5895DeQ:1661646675754&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiOwOaepOj5AhWXLrkGHbnyB5QQ_AUoAXoECAEQAw&biw=1366&bih=657&dpr=1#imgrc=rzTQJ6Rj0M4KvM",
+      "price":"60.00",
+      "section":"Star Wars",
+      "alt":"Product",
+      "id": 12,
+      "description": " "
+      
+    },
+    {
+      "nome": "Controle XYZ",
+      "imageUrl":"",
+      "price":"60.00",
+      "section":"Star Wars",
+      "alt":"Product",
+      "id": 2,
+      "description": " "
+      
+    },
+    {
+      "nome": "Controle XYZ",
+      "imageUrlI":"",
+      "price":"60.00",
+      "section":"Star Wars",
+      "alt":"Product",
+      "id": 3,
+      "description": " "
+      
+    },
+    {
+      "nome": "Controle XYZ",
+      "imageUrl":"",
+      "price":"60.00",
+      "section":"Star Wars",
+      "alt":"Product",
+      "id": 4,
+      "description": " "
+      
+    },
+    {
+      "nome": "Controle XYZ",
+      "imageUrl":"",
+      "price":"60.00",
+      "section":"Star Wars",
+      "alt":"Product",
+      "id": 5,
+      "description": " "
+      
+    },
+    {
+      "nome": "Controle XYZ",
+      "imageUrl":"",
+      "price":"60.00",
+      "section":"Star Wars",
+      "alt":"Product",
+      "id": 6,
+      "description": " "
+      
+    },
+    {
+      "nome": "Controle XYZ",
+      "imageUrl":"",
+      "price":"60.00",
+      "section":"Consoles",
+      "alt":"Product",
+      "id": 7,
+      "description": " "
+      
+    },
+    {
+      "nome": "Controle XYZ",
+      "imageUrl":"",
+      "price":"60.00",
+      "section":"Consoles",
+      "alt":"Product",
+      "id": 8,
+      "description": " "
+      
+    },
+    {
+      "nome": "Controle XYZ",
+      "imageUrl":"",
+      "price":"60.00",
+      "section":"Consoles",
+      "alt":"Product",
+      "id": 9,
+      "description": " "
+      
+    },
+    {
+      "nome": "Controle XYZ",
+      "imageUrl":"",
+      "price":"60.00",
+      "section":"Consoles",
+      "alt":"Product",
+      "id": 10,
+      "description": " "
+      
+    },
+    {
+      "nome": "Controle XYZ",
+      "imageUrl":"",
+      "price":"60.00",
+      "section":"Consoles",
+      "alt":"Product",
+      "id": 11,
+      "description": " "
+      
+    },
+    {
+      "nome": "Controle XYZ",
+      "imageUrl":"",
+      "price":"60.00",
+      "section":"Consoles",
+      "alt":"Product",
+      "id": 12,
+      "description": " "
+      
+    },
+    {
+      "nome": "Controle XYZ",
+      "imageUrl":"",
+      "price":"60.00",
+      "section":"Diversos",
+      "alt":"Product",
+      "id": 13,
+      "description": " "
+      
+    },
+    {
+      "nome": "Controle XYZ",
+      "imageUrl":"",
+      "price":"60.00",
+      "section":"Diversos",
+      "alt":"Product",
+      "id": 14,
+      "description": " "
+      
+    },
+    {
+      "nome": "Controle XYZ",
+      "imageUrl":"",
+      "price":"60.00",
+      "section":"Diversos",
+      "alt":"Product",
+      "id": 15,
+      "description": " "
+      
+    },
+    {
+      "nome": "Controle XYZ",
+      "imageUrl":"",
+      "price":"60.00",
+      "section":"Diversos",
+      "alt":"Product",
+      "id": 16,
+      "description": " "
+      
+    },
+    {
+      "nome": "Controle XYZ",
+      "imageUrl":"",
+      "price":"60.00",
+      "section":"Diversos",
+      "alt":"Product",
+      "id": 17,
+      "description": " "
+      
+    },
+    {
+      "nome": "Controle XYZ",
+      "imageUrl":"",
+      "price":"60.00",
+      "section":"Diversos",
+      "alt":"Product",
+      "id": 18,
+      "description": " "
+      
+    }
+
+  ]
+}

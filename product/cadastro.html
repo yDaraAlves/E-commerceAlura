@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <link rel="stylesheet" href="cadastro.css">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+    <title>Alura Geek</title>
+</head>
+<body>
+	<ul class="faixa__container">
+
+        <li class="faixa__container__li "> <a href="../index.html" class="logo">
+            <img src="./img/Logo.png" alt="Logo da Alura Geek" class="logo__img"></a>
+        </li>
+    </ul>
+
+        <form action="Produtos-form" class="Produtos-form" data-form="">
+            <ul class="produto-container">
+                <h2 class="produto-title">Adicionar novo produto</h2>
+                <li>
+					<label for="produto-img">URL da imagem</label>
+                    <input type="input"  id="input-li" required="">
+                    
+
+				</li>
+				
+				<li>
+					<label for="product-category">Categoria</label>
+                    <input type="input"  id="input-li" required>
+                   
+
+				</li>
+				<li>
+					<label for="product-name">Nome do produto</label>
+					<input type="input"  id="input-li" required>
+                    
+
+				</li>
+				<li>
+					<label for="product-price">Preço do produto</label>
+                    <input type="input"  id="input-li" required>
+                   
+
+				</li>
+				<li>
+                    <label for="product-description">Descrição do produto</label>
+					
+					<textarea rows="6" cols="37" required >Descrição</textarea>
+                    
+
+				</li>
+				<li>
+					
+					<button type="submit" class="btn" onclick="cadastrar();">Adicionar produto</button>
+					
+
+				</li> 
+               
+            </ul>
+        </form>
+		
+    
+   
+
+<script type="module" src="../javascript/app.js"></script>
+<script src="fat.js"></script>
+<script type="module" src="../javascript/controller/cadastraProdutos- controller.js"></script>
+
+	
+</body>
+</html>
